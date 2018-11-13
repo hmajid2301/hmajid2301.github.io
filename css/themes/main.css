@@ -13,13 +13,13 @@
 	color: #FAFAFA;
 }
 
-.icons-social a svg path{
+.icons-social a svg path {
 	fill: #FAFAFA;
 }
 
-i {
-  transition: transform .4s ease-in-out;
+i, img {
+    transition: transform .4s ease-in-out;
 }
-i:hover {
-  transform: rotate(360deg);
+i:hover, img:hover {
+    transform: rotate(360deg);
 }
